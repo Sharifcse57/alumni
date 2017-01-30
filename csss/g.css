@@ -1,0 +1,10 @@
+* {font-family: "Segoe UI", Tahoma;}
+ul.nav {}
+ul.nav li a {display: block; text-decoration: none; color: #333;   }
+ul.nav > li:hover {}
+ul.nav li a:hover {background: #ccc; }
+ul.nav > li {display: inline-block; position: relative;  }
+ul.nav > li ul {display: none; position:    border-top-color: #fff; }
+ul.nav > li:hover ul {display: block;}
+ul.nav > li ul li {display: block;} 
+ul.nav > li ul li {display: inline-block;} 
